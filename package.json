@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app.github.io",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhafer25/liri-node-app.github.io.git"
+  },
+  "author": "jHafer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhafer25/liri-node-app.github.io/issues"
+  },
+  "homepage": "https://github.com/jhafer25/liri-node-app.github.io#readme"
+}
